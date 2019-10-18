@@ -24,9 +24,9 @@ This Jetbrains IntelliJ family plugin adds Logitech Craft support to Jetbrains I
 - Navigate selected item
 - Open selected item (on press)
 
-## Functionality
+## To-Do
 
-The plugin communicates with the Logitech Options plugin manager via websocket on port `10134` by exchanging json data.
+- Separate plugin and logitech craft communication projects
 
 ## License
 
