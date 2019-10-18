@@ -1,0 +1,20 @@
+{
+    "LocalizedStrings": [
+        {
+            "ID": "changetoolvalue",
+            "value": "Contextual"
+        },
+        {
+            "ID": "run",
+            "value": "Run"
+        },
+        {
+            "ID": "tabs",
+            "value": "Tabs"
+        },
+        {
+            "ID": "textSize",
+            "value": "Text size"
+        }
+    ]
+}

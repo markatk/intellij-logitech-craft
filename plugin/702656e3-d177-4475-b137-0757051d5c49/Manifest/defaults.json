@@ -1,0 +1,48 @@
+{
+    "GUID": "702656e3-d177-4475-b137-0757051d5c49",
+    "info": {
+        "name": "IntelliJ",
+        "publisher": "Markus Grigull",
+        "version": "1.0",
+        "win_name": "idea64.exe",
+        "mac_bundle": "",
+        "mac_path": "",
+        "mac_paths": [
+            {
+                "path": "",
+                "mac_minimum_supported_version": "",
+                "mac_maximum_supported_version": "",
+                "name_suffix": ""
+            },
+            {
+                "path": "",
+                "comment": "",
+                "mac_minimum_supported_version": "",
+                "mac_maximum_supported_version": "",
+                "name_suffix": ""
+            }
+        ],
+        "win_minimum_supported_version": "0.0.0",
+        "win_maximum_supported_version": "2017.0.1"
+    },
+    "crown": {
+        "rotate": {
+            "default_task": "changetoolvalue",
+            "tasks": [
+                "changetoolvalue"
+            ],
+            "short_list": [
+                "changetoolvalue"
+            ]
+        },
+        "press": {
+            "default_task": "run",
+            "tasks": [
+                "run"
+            ],
+            "short_list": [
+                "run"
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "GUID": "702656e3-d177-4475-b137-0757051d5c49",
+    "tools": [
+        {
+            "name": "Editor",
+            "enabled": true,
+            "tool_options": [
+                {
+                    "index": 0,
+                    "name": "tabs",
+                    "image_file_path": "tabs.png",
+                    "enabled": true,
+                    "ratchet_enabled": true
+                },
+                {
+                    "index": 1,
+                    "name": "textSize",
+                    "image_file_path": "fontSize.png",
+                    "enabled": true,
+                    "ratchet_enabled": false
+                }
+            ]
+        }
+    ],
+    "tasks": [
+        {
+            "name": "changetoolvalue",
+            "win_id": "0x10064",
+            "mac_id": 615
+        },
+        {
+            "name": "run",
+            "win_id": "0x10065",
+            "mac_id": 616
+        }
+    ]
+}

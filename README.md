@@ -4,6 +4,26 @@
 
 This Jetbrains IntelliJ family plugin adds Logitech Craft support to Jetbrains IDEs to assign actions to the crown.
 
+## Features
+
+- Run configuration (on press)
+- Change configuration
+
+### Editor
+
+- Change tabs
+- Change text size
+- Undo/redo
+- Jump to next/previous search entry
+- Jump to next/previous bookmark
+- Jump to next/previous error
+- Jump to next/previous method
+
+### Project view
+
+- Navigate selected item
+- Open selected item (on press)
+
 ## Functionality
 
 The plugin communicates with the Logitech Options plugin manager via websocket on port `10134` by exchanging json data.
