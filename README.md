@@ -1,5 +1,9 @@
 # IntelliJ-Logitech-Craft
 
+# WARNING
+
+This plugin isn't finished yet and is currently not in active development!
+
 ## Description
 
 This Jetbrains IntelliJ family plugin adds Logitech Craft support to Jetbrains IDEs to assign actions to the crown.
